@@ -42,33 +42,22 @@ Automated_Data_pipeline_flask/
 └── tests/
 └── test_app.py # Pytest test cases
 
-yaml
-Copy
-Edit
-
----
 
 ## ⚙️ How to Run the Project
 
 ### 1. Clone the repository
-```bash
+
 git clone https://github.com/github-anushree/automated-data-pipeline.git
 cd automated-data-pipeline
 2. Install dependencies
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 3. Start the Flask server
-bash
-Copy
-Edit
+
 python app.py
 Open your browser and visit:
 
-arduino
-Copy
-Edit
+
 http://127.0.0.1:5000/dashboard
 🔗 API Endpoints
 Method	Route	Description
@@ -93,7 +82,8 @@ More charts are loaded dynamically from /static folder.
 🙋‍♀️ Author
 Anushree Kashyap
 📍 Data Analyst & Python Enthusiast
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/anushreekashyap/)
+🔗[LinkedIn Profile](https://www.linkedin.com/in/anushreekashyap/)
+
 
 
 ⭐️ Show Your Support
