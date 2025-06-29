@@ -79,6 +79,13 @@ More charts are loaded dynamically from /static folder.
 
  Optional: Use PostgreSQL instead of SQLite
 
+ ## 🧾 Sample API Response
+
+Here's an example response from `/api/astronauts`:
+
+![API Response](static/api_response_sample.png)
+
+
 🙋‍♀️ Author
 Anushree Kashyap
 📍 Data Analyst & Python Enthusiast
